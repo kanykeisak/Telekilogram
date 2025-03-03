@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/chatFragment"
-        android:name="com.example.telekilogram.view.ChatFragment"
+        android:name="com.example.telekilogram.ui.fragments.chat.ChatFragment"
         android:label="fragment_chat"
         tools:layout="@layout/fragment_chat" />
 </navigation>
